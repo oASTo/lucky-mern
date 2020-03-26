@@ -1,0 +1,15 @@
+{
+  "name": "lucky-mern",
+  "version": "1.0.0",
+  "description": "lucky-MERN for online-ing the business",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
